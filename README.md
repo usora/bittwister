@@ -1,0 +1,2 @@
+# bittwister
+Bit twisting functions
